@@ -1,0 +1,5 @@
+.log
+cookie.txt
+*.pwd~
+/winform_cpulimit/bin
+/winform_cpulimit/obj
