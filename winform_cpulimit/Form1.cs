@@ -35,13 +35,20 @@ namespace winform_cpulimit
         {
             button1.Enabled = true;
             button2.Enabled = false;
-            //this.Text = "CPU限速工具（飞儿云专用版）";
+            this.Text = "飞儿云CPU限速工具2018-02-27";
             //textBox1.Text = Properties.Settings.Default.keyword;
             comboBox1.Items.Clear();
+            comboBox1.Items.Add(@"\晨风QQ机器人.exe");
             comboBox1.Items.Add(@"\笨笨熊管家.exe");
+            comboBox1.Items.Add(@"\QQ.exe");
+            comboBox1.Items.Add(@"\TIM.exe");
             comboBox1.Items.Add(@"\calc.exe");
             comboBox1.SelectedIndex = 0;
             comboBox2.Items.Clear();
+            comboBox2_add("降速到 1%,延长100倍使用时间", 1650, 1);
+            comboBox2_add("降速到 2%, 延长50倍使用时间", 850, 1);
+            comboBox2_add("降速到 3%, 延长33倍使用时间", 550, 1);
+            comboBox2_add("降速到 4%, 延长25倍使用时间", 400, 1);
             comboBox2_add("降速到 5%, 延长20倍使用时间", 300, 1);
             comboBox2_add("降速到10%, 延长10倍使用时间", 150, 1);
             comboBox2_add("降速到20%, 延长 4倍使用时间", 30, 1);
@@ -53,7 +60,7 @@ namespace winform_cpulimit
             msg += "\r\n\r\n但有可能导致信息处理速度变慢";
             msg += "\r\n\r\n请根据您需要进行调整设置";
             msg += "\r\n\r\n技术支持阿盛QQ: 309385018";
-            MessageBox.Show(msg, "欢迎使用[CPU降速工具]飞儿云专用版", MessageBoxButtons.OK);
+            //MessageBox.Show(msg, "欢迎使用[CPU降速工具]飞儿云专用版", MessageBoxButtons.OK);
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

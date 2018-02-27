@@ -6,3 +6,11 @@ C:\code\csharp\Projects\winform_cpulimit\winform_cpulimit\obj\Release\winform_cp
 C:\code\csharp\Projects\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.csproj.GenerateResource.Cache
 C:\code\csharp\Projects\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.exe
 C:\code\csharp\Projects\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.pdb
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\bin\Release\winform_cpulimit.exe.config
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.exe
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.pdb
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\bin\Release\winform_cpulimit.exe
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\bin\Release\winform_cpulimit.pdb
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.Form1.resources
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.Properties.Resources.resources
+C:\code\csharp\firadio-process\winform_cpulimit\winform_cpulimit\obj\Release\winform_cpulimit.csproj.GenerateResource.Cache
